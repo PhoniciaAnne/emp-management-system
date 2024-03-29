@@ -1,5 +1,4 @@
-# FSD-week-4---part-1
-Part 1 - Employee Management System
+ Employee Management System
 
 Let’s consider a real-world scenario where we have a list of employees in an organization and we want to perform various tasks using JavaScript:
 
